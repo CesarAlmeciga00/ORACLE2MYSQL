@@ -1,1 +1,0 @@
-for /r "C:\DESARROLLOS\ORACLE2MYSQL\bat" %%a in (*.bat) do start "" cmd /c "%%~a"
